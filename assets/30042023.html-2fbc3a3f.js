@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6bde2768","path":"/blogs/cpp/2023/30042023.html","title":"Smart Pointers in C++","lang":"en-US","frontmatter":{"title":"Smart Pointers in C++","date":"2023/04/30","tags":["C++"],"categories":["Programming"]},"headers":[],"git":{},"filePathRelative":"blogs/cpp/2023/30042023.md"}');export{t as data};
